@@ -36,8 +36,6 @@ Explore the complete codebase on GitHub: [AI PDF Chatbot and Agent](https://gith
 
 ![Proposed Methodology](./images/architecture.png)
 
-## Proposed Methodology
-
 The AI PDF Chatbot and Agent system is designed to allow users to interact conversationally with PDF documents. The system follows these key steps:
 
 1. **PDF Upload and Parsing**  
