@@ -8,7 +8,7 @@ The **AI PDF Chatbot and Agent** is a powerful web-based application designed to
 
 ## Live Website
 
-Try the live demo: [AI PDF Chatbot and Agent](https://ai-pdf-chatbot-and-agent.onrender.com)
+Try the live demo: [AI PDF Chatbot and Agent](https://ai-pdf-chatbot-and-agent.streamlit.app/)
 
 ## Screenshot of Website
 
